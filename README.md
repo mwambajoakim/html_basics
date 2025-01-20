@@ -25,3 +25,33 @@ In each of these sections I used the ``` <section> ``` tag to divide the areas i
 ## Projects Page
 
 The projects page has the links to the different projects I have been doing. These projects are in ``` <div> ```s again so that it becomes easier to style the pages later.
+
+## Articles Page
+
+In the articles page I did short descriptions of the projects I did. I provided links to README documents for the different projects in the <ins>*Projects*</ins> page.
+
+## Contact Page
+
+The contact page basically has a form in which the user can ssend feeback, including inserting their *email*, *phone number* and *name*.
+
+Here is a snippet of the form. It is my first HTML form to make.
+``` 
+<form method="post">
+        <p>
+            <label for="fname">First Name:</label>
+            <input type="text" id="fname" required/>
+        </p>
+        <p>    
+            <label for="lname">Last Name:</label>
+            <input type="text" id="lname" required/>
+        </p>
+        <p>
+            <label for="mail">Email:</label>
+            <input type="email" id="mail" required />
+        </p>
+        <p>
+            <label for="message">Give me feedback:</label>
+            <textarea type="textarea" id="message" required></textarea>
+        </p>    
+    </form> 
+```
