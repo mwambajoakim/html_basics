@@ -55,3 +55,5 @@ Here is a snippet of the form. It is my first HTML form to make.
         </p>    
     </form> 
 ```
+
+_**PS:**_ I discovered a way to add the copyright logo to the footer of each of the pages using ``` &copy ```. Also, each page has the navigation links besides the *home page*.
