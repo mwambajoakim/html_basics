@@ -20,3 +20,8 @@ The homepage of this project houses the navigation bar that has the links to the
 Besides the *navigation bar*, the homepage has an *about* section and a section that gives a brief of my achievements.
 
 In each of these sections I used the ``` <section> ``` tag to divide the areas into sections. It will also provide good ground for when I will style the website.
+
+# Other Pages
+## Projects Page
+
+The projects page has the links to the different projects I have been doing. These projects are in ``` <div> ```s again so that it becomes easier to style the pages later.
