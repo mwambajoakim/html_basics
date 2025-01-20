@@ -16,3 +16,7 @@ I will also try to write comments in the pages as much as I can. The description
 ## Home Page
 
 The homepage of this project houses the navigation bar that has the links to the other pages of the portfolio website.
+
+Besides the *navigation bar*, the homepage has an *about* section and a section that gives a brief of my achievements.
+
+In each of these sections I used the ``` <section> ``` tag to divide the areas into sections. It will also provide good ground for when I will style the website.
