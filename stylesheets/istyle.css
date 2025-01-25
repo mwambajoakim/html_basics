@@ -2,3 +2,119 @@
     background-color: black;
     color: goldenrod;
 }
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    margin-right: 20px;
+}
+
+.nav {
+    display: flex;
+    gap: 15px;
+}
+
+.ab-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 64px;
+}
+
+.facts {
+    text-align: center;
+}
+
+.fact2 {
+    color: goldenrod;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.banner {
+    margin: 100px;
+    font-size: 75px;
+    outline: 1px solid gold;
+    padding: 70px;
+    color: goldenrod;
+    border-radius: 2px;
+}
+
+.achieve {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.achieves {
+    display: flex;
+    flex-direction: column;
+    outline: 1px solid gold;
+    border-radius: 2px;
+}
+
+.work {
+    outline: 1px solid gold;
+    border-radius: 2px;
+    padding: 10px;
+}
+
+.proj {
+    outline: 1px solid gold;
+}
+
+.same {
+    list-style-type: none;
+    text-align: left;
+}
+
+li {
+    list-style-type: square;
+}
+hr {
+    height: 2px;
+    width: 200px;
+    margin-right: 50px;
+}
+
+h5 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 800;
+    color: goldenrod;
+    font-size: 20px;
+}
+
+p, li {
+    color: white;
+}
+
+.foot {
+    border-radius: 8px;
+    Outline: 1px solid gold;
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+}
