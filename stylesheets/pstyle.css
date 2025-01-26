@@ -52,4 +52,5 @@
 .landing {
     outline: 2px solid gold;
     border-radius: 2px;
+    padding: 8px;
 }
