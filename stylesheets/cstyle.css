@@ -2,3 +2,23 @@
     background-color: black;
     color: goldenrod;
 }
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 2px;
+    outline: 2px solid goldenrod;
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+}
